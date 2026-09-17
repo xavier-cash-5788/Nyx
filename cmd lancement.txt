@@ -1,0 +1,9 @@
+cd ~/Bureau/chat\ bot\ xl/AML-local-ai-memory-architecture-4bd21
+ls -l
+cd "Python conversion"
+ls -l
+cd Nyx_Qwen
+cd AML-nyx-software-architecture-e8111
+cd nyx
+ls
+python -m nyx.main
